@@ -1,6 +1,6 @@
 # Pattern Generator and Number Analyzer
 
-##  Description
+###  Description
 
 The **Pattern Generator and Number Analyzer** is a simple Python menu-driven program. It provides two main functionalities:
 
@@ -11,7 +11,7 @@ The program also calculates the sum of numbers in the selected range and identif
 
 The program continues running until the user selects the **Exit** option.
 
-##  Features
+###  Features
 
 - Generate a triangular star pattern.
 - Analyze a range of numbers.
@@ -21,9 +21,8 @@ The program continues running until the user selects the **Exit** option.
 - Menu-driven interface.
 - Allows multiple operations in one execution.
 
-##  Technologies Used
+###  Technologies Used
 
-- Python 3
 - while loop
 - for loop
 - match-case
@@ -32,7 +31,7 @@ The program continues running until the user selects the **Exit** option.
 - input()
 - Modulus operator (%)
 
-##  Project Structure
+###  Project Structure
 
 project_2/
 │
