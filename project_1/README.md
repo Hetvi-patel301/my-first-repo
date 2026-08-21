@@ -1,12 +1,12 @@
 # Interactive Personal Data Collector
 
-##  Description
+###  Description
 
 The **Interactive Personal Data Collector** is a simple Python program that collects basic personal information from the user and displays the collected information along with its data type and memory address.
 
 The program also calculates an approximate birth year based on the user's age and the current year.
 
-##  Features
+###  Features
 
 - Takes the user's name as input.
 - Takes the user's age as input.
@@ -18,7 +18,7 @@ The program also calculates an approximate birth year based on the user's age an
 - Displays the memory address of each value using Python's `id()` function.
 - Provides a simple and interactive user experience.
 
-##  Technologies Used
+###  Technologies Used
 
 - input()
 - print()
@@ -28,7 +28,7 @@ The program also calculates an approximate birth year based on the user's age an
 - type()
 - id()
 
-##  Project Structure
+###  Project Structure
 
 project_1/
 │
