@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 print("welcome to the Interactive Personal Data Collector!")
 name = str(input("Please Enter Your Name:"))
 age = int(input("Please Enter Your Age:"))
@@ -20,7 +20,7 @@ print("\n")
 print("Your Birth Year is Approximetly:",birth,"(based on your age of ",age,")")
 print("\n")
 print("Thank You for using Personal Data Collector. Goodbye!")
-=======
+
 print("wlcome to the Interactive Personal Data Collector!")
 name = str(input("Please Enter Your Name:"))
 age = int(input("Please Enter Your Age:"))
@@ -42,4 +42,4 @@ print("\n")
 print("Your Birth Year is Approximetly:",birth,"(based on your age of ",age,")")
 print("\n")
 print("Thank You for using Personal Data Collector. Goodbye!")
->>>>>>> 613a5c6 (Add project file)
+
